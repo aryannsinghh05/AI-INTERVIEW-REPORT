@@ -1,5 +1,7 @@
 # 🤖 AI Interview Generator
 
+> 🚀 **Live Demo:** [ai-interview-report-p935.vercel.app](https://ai-interview-report-p935.vercel.app)
+
 An AI-powered full-stack web application that analyzes your resume, self description and job description to generate a personalized interview preparation plan — including technical questions, behavioral questions, skill gap analysis, a day-by-day preparation roadmap, and a downloadable AI-generated resume PDF.
 
 ---
